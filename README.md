@@ -33,3 +33,6 @@ This project is a clone of the classic 1970s arcade game **Breakout**, originall
    ```bash
    git clone https://github.com/yourusername/breakout-clone.git
    cd breakout-clone
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
